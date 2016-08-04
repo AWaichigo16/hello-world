@@ -1,2 +1,5 @@
 # hello-world
-My first repository 03-Aug-2016
+
+My fellow humans,
+
+Alfie here, I am about to embark on a journey of unknowns. A journey of self discovery in th coding world. I pray and hope for a fruitful coding experience. Cheers!
